@@ -36,6 +36,7 @@
     - Commands (using the experimental library)
         - Built in commands
         - chopshoplib commands
+        - Lambdas
     - WPIlib classes
     - chopshoplib wrapper classes
     - RobotMaps
